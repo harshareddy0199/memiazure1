@@ -1,0 +1,6 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/8464ff58-77da-469d-bdb7-6ee20cb5cf5e/resourceGroups/readit-app-rg/providers/Microsoft.Web/sites/Readit-Inventory-Harsha",
+    "editor.fontSize": 14
+}
